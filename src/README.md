@@ -4,17 +4,18 @@
 
 Interface desenvolvida usando:
 
-  - React-native
-  - Redux
-  - numeral.js
+  - React.js
+  - Intl
+  - Hooks
   - Axios
   - styled-components
   - reactotron
   - eslint
+  - redux
 
 # Finalidade!
 
-  - Explorar melhor as funcionalidades do redux
+  - Explorar melhor as funcionalidades do redux auxiliado com react hooks
   - App de uma plataforma de E-commerce 
 
 
@@ -27,14 +28,14 @@ O que pode fazer:
 ### Como Rodar
 
  - Clone o projeto
-  - npm install
-  - react-native run-android
+  - yarn 
+  - yarn start
   - eslint já consta configurado no projeto
  
 ```sh
 $ cd 
-$ npm install
-$ react-native run-android
+$ yarn 
+$ yarn start
 ```
 
 **Let's code!**
